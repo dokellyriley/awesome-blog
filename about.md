@@ -13,3 +13,7 @@ Reasons:
 ## Other thoughts
 
 This is great.
+
+[Link](https://www.google.com)
+
+![dog picture](https://commons.wikimedia.org/wiki/File:Collage_of_Nine_Dogs.jpg)
