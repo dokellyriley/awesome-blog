@@ -1,0 +1,11 @@
+# basic options
+title: Diane's site
+author: Diane Kelly-Riley
+email: dianek@uidaho.edu
+description: A wonderful site about me by me
+twitter_username: jekyllrb
+github_username: dokellyriley
+
+# Build settings
+markdown: kramdown
+theme: minima
